@@ -95,3 +95,6 @@ SELECT billing_state, COUNT(*), SUM(total), AVG(total) FROM invoices WHERE billi
 -- A list of the top 5 countries by gross/total invoice size
 
 -- A list of the top 5 countries by average invoice size
+
+-- MY QUERY
+
